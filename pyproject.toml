@@ -8,3 +8,8 @@ dependencies = [
     "pillow>=11.3.0",
     "typer>=0.16.1",
 ]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.12.10",
+]

@@ -1,6 +1,6 @@
 # JPG to WebP Converter
 
-A Python command-line tool that batch converts JPG/JPEG images to WebP format with customizable quality settings.
+A Python command-line tool that batch converts PNG/JPG/JPEG images to WebP format with customizable quality settings.
 
 ## Why WebP?
 
@@ -151,6 +151,8 @@ Choose the right quality setting for your use case:
 - `.jpeg` 
 - `.JPG`
 - `.JPEG`
+- `.png`
+- `.PNG`
 
 **Output format:**
 - `.webp`
